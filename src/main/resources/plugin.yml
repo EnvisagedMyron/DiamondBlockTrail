@@ -1,0 +1,7 @@
+name: DiamondBlockTrail
+version: '${project.version}'
+main: myron.diamondblocktrail.DiamondBlockTrail
+api-version: '1.20'
+commands:
+  block:
+    description: jajaja
